@@ -16,6 +16,6 @@ a.	This will be a two-part metric which factors in the confidence each player is
 a.	A running percent win statistic for each player throughout the year. Previous studies have included a positive “penalty” term for better recent performance
 
 
-A copy of my code can be found on my GitHub repository labeled tennisR
+
 
 
